@@ -1,0 +1,20 @@
+{
+  "name": "route_app",
+  "description": "Route app",
+  "main": "systemjs.config.js",
+  "authors": [
+    "d_dmitry"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "route"
+  ],
+  "homepage": "Index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
